@@ -2,6 +2,11 @@
  font-family: Roboto, sans-serif;
 
 }
+p.Animacion{
+ font-family: Lucida Bright, sans-serif;
+
+
+}
 
 div{
 	background-color: rgb(240, 240, 240);
@@ -39,4 +44,4 @@ p.button{
 
 html{
  	scroll-behavior: smooth;
-	}
+}
